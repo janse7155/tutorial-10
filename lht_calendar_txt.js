@@ -5,8 +5,8 @@
    Tutorial 10
    Tutorial Case
 
-   Author: 
-   Date:  
+   Author: Jaedan
+   Date:  2/6/23
 
    Filename:   lht_calendar.js  
 
